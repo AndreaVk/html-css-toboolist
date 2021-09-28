@@ -154,3 +154,23 @@ body{
     border:1px solid orange;
     margin: 0 auto;
 }
+
+.bottone7{
+    background-color:purple;
+    border-radius: 10px;
+    height: 30px;
+    width: 70px;
+    color: white;
+    border:1px solid purple;
+    margin: 0 auto;
+}
+
+.bottone8{
+    background-color: lightgreen;
+    border-radius: 10px;
+    height: 30px;
+    width: 70px;
+    color: white;
+    border:1px solid lightgreen;
+    margin: 0 auto;
+}
